@@ -13,9 +13,6 @@ android:
 
 sudo: required
 
-jdk:
-  - oraclejdk8
-
 install: true
 
 before_script:
