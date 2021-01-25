@@ -15,6 +15,7 @@
         android:layout_marginLeft="10dp"
         android:contentDescription="@string/todo"
         android:src="@drawable/idea"
+        android:transitionName="@string/logoimage"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
