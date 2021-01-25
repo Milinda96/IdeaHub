@@ -9,5 +9,5 @@ android:
     - extra-android-m2repository
     - sys-img-x86-android-30
     - sys-img-armeabi-v7a-android-17
-before_install:
-  - chmod +x gradlew
+script:
+  - chmod +x ./gradlew build connectedCheck
