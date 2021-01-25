@@ -5,6 +5,7 @@ android:
   components:
     - build-tools-30.0.2
     - android-30
+    - android 22
     - extra-google-google_play_services
     - extra-google-m2repository
     - extra-android-m2repository
